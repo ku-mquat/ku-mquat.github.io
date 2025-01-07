@@ -51,4 +51,4 @@ utterances:
   repo: "ku-mquat/kumquat"
   issue-term: "title"
   label: "utteranc.es"
-  theme: "github-light"
+  theme: "preferred-color-scheme"

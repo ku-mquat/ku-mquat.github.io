@@ -19,15 +19,7 @@ layout: compress
 
 </main>
 
-{%- capture theme -%}
-    {%- if page.dark -%}
-        github-dark
-    {%- else -%}
-        github-light 
-    {%- endif -%}
-{%- endcapture -%}
-
-{% include utterances.html theme=theme %}
+{% include utterances.html %}
 
 {% include footer-post.html %}
 

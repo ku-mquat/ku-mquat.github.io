@@ -5,7 +5,7 @@ title: 👋
 
 <div class="player" data-property="{videoURL:'g_ICWul5hqQ',
     containment:'body',
-    useOnMobile: false,
+    useOnMobile: true,
     showControls: false,
     autoPlay: true,
     mute: false,

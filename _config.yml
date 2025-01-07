@@ -1,6 +1,6 @@
 title: ku.mquat
 description: 일상의 편린
-url: "https://tuaqm.uk/"
+url: "https://ku-mquat.github.io"
 
 plugins:
   - jekyll-redirect-from

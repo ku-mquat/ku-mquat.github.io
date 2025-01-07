@@ -1,6 +1,6 @@
 title: ku.mquat
-description: 일상의 편린
-url: "https://ku-mquat.github.io"
+description: 日常의 片鱗
+url: "https://tauqm.uk"
 
 plugins:
   - jekyll-redirect-from
@@ -48,7 +48,7 @@ links:
   about: /about
 
 utterances:
-  repo: "ku-mquat/ku-mquat.github.io"
-  issue-term: "pathname"
+  repo: "ku-mquat/kumquat"
+  issue-term: "title"
   label: "utteranc.es"
   theme: "github-light"

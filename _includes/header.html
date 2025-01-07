@@ -1,0 +1,9 @@
+<nav>
+    <a href="{{ site.url }}" class="title">{{ site.title }}</a> 
+    <a href="{{ site.url }}{{ site.Blog }}">blog</a>
+
+    {% for link in site.links %}
+        <a href="{{ site.url }}{{ link[1] }}">{{ link[0] }}</a>
+    {% endfor %}
+
+</nav>

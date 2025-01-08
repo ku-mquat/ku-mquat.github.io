@@ -11,10 +11,7 @@ layout: compress
     {{ content }}
 
     {% if site.tags[page.slug] %}
-    <p>
-        Here be writings, tagged as <b>"{{ page.slug }}"</b>.<br>
-        <small><a href="{{ site.baseurl }}{{ site.Blog }}">Remove filter</a></small>
-    </p>
+    <h1>tagged as {{ page.slug }}</h1>
 
     <ul class="blog-posts">
         {% assign post_list = '' | split: ',' %}

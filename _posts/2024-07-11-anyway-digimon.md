@@ -3,7 +3,7 @@ layout: post
 title:  "Anyway, Digimon: “The long but very short summer vacation has begun.”"
 date:   2024-07-11 09:46 +0800
 tags: 
-- highlights
+- highlight
 ---
   
 > 이건 내가 디지몬과 영원히 이별하는 이야기다. 

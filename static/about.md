@@ -4,7 +4,7 @@ title: 🤙
 permalink: /about
 ---
 
-![](assets/images/profile.png)
+![](assets/uploads/profile.png)
 
 writing in
 - english

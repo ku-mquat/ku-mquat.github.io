@@ -1,0 +1,21 @@
+backend:
+  name: kumquat
+  repo: ku-umquat/kumquat  # GitHub 저장소 경로
+  branch: main  # 기본 브랜치명
+
+media_folder: "assets/uploads" # 업로드된 파일 저장 위치
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "posts"
+    label: "posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sort: "date:desc"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

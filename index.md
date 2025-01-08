@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 👋
+title: 
 ---
 
 <div class="player" data-property="{videoURL:'sfjNCZi9wew',

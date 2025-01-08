@@ -1,8 +1,7 @@
 backend:
   name: github
   repo: ku-umquat/kumquat
-  branch: main
-  base_url: https://tauqm.uk
+  branch: master
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"

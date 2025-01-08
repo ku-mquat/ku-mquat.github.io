@@ -43,14 +43,14 @@ b {
 }
 
 body h1 {
-    margin-bottom: 0;
+    margin-bottom: 0;r
 }
 
 a {
     color: #2c2c2c;
     cursor: pointer;
     text-decoration: none;
-    border-bottom: 2px solid black;
+    border-bottom: 1.5px solid black;
     text-shadow: 2px 2px 1px cyan,
     2px -1px 1px magenta,
     -2px 1px 1px yellow;
@@ -190,7 +190,7 @@ code {
 }
 
 blockquote {
-    border-left: 1px solid #999;
+    border-left: 1.5px solid #2c2c2c;
     color: #2c2c2c;
     padding-left: 20px;
     font-style: italic;
@@ -329,7 +329,7 @@ ul.discover-posts li small a {
         text-shadow: 2px 2px 1px rgba(0, 255, 255, 0.5),
                      2px -1px 1px rgba(255, 0, 255, 0.5),
                     -2px 1px 1px rgba(255, 255, 0, 0.5);
-        border-bottom: 2px solid #e0e0e0; 
+        border-bottom: 1.5px solid #e0e0e0; 
     }
 
     code {

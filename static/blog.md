@@ -4,8 +4,6 @@ title: blog
 permalink: /blog
 ---
 
-# tags
-
 {% for tag in site.tags %}
 
   {% assign tag_slug = tag | first %}
@@ -15,4 +13,4 @@ permalink: /blog
             }}</a>
 {% endfor %}
 
-# articles
+---

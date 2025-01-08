@@ -1,9 +1,10 @@
 backend:
   name: github
-  repo: ku-umquat/kumquat  # GitHub 저장소 경로
-  branch: main  # 기본 브랜치명
+  repo: ku-umquat/kumquat
+  branch: main
+  base_url: https://tauqm.uk
 
-media_folder: "assets/uploads" # 업로드된 파일 저장 위치
+media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
 
 collections:

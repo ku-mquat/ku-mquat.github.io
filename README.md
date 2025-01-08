@@ -4,7 +4,7 @@
 
 ---
 
-Theme [JekyllBear](https://github.com/knhash/jekyllBear) by [knhash](https://knhash.in/)
-Edit/Writing by [99](https://tauqm.uk)
-[jquery.mb.YTPlayer](https://github.com/pupunzi/jquery.mb.YTPlayer) by [pupunzi](https://pupunzi.open-lab.com/)
-[Current one](https://youtu.be/sfjNCZi9wew)
+- Theme [JekyllBear](https://github.com/knhash/jekyllBear) by [knhash](https://knhash.in/)
+- Edit/Writing by [99](https://tauqm.uk)
+- [jquery.mb.YTPlayer](https://github.com/pupunzi/jquery.mb.YTPlayer) by [pupunzi](https://pupunzi.open-lab.com/)
+- [Current background video](https://youtu.be/sfjNCZi9wew)

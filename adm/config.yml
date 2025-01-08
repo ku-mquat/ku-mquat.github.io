@@ -1,9 +1,7 @@
 backend:
-  name: github
+  name: git-gateway
   repo: ku-umquat/kumquat
   branch: master
-  base_url: https://tauqm.uk
-  auth_endpoint: /auth
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"

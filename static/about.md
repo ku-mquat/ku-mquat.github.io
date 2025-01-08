@@ -1,7 +1,10 @@
 ---
 layout: page
 title: 🤙
+permalink: /about
 ---
+
+![](assets/images/profile.png)
 
 writing in
 - english
@@ -14,6 +17,6 @@ learning
 - portuguese
 - vietnamese
 
-#### 🖇️
+# 🖇️
 
 [apple music](https://music.apple.com/profile/getmyitunesback) | [letterboxd](https://letterboxd.com/joxd/)

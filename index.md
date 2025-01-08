@@ -3,7 +3,7 @@ layout: default
 title: 👋
 ---
 
-<div class="player" data-property="{videoURL:'g_ICWul5hqQ',
+<div class="player" data-property="{videoURL:'sfjNCZi9wew',
     containment:'body',
     useOnMobile: true,
     showControls: false,

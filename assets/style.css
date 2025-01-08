@@ -9,6 +9,7 @@ body {
     max-width: 720px;
     text-align: left;
     background-color: #fff;
+    word-break: keep-all;
     word-wrap: break-word;
     overflow-wrap: break-word;
     text-align: justify;

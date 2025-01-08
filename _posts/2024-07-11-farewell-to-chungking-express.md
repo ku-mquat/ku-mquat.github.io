@@ -3,7 +3,7 @@ layout: post
 title: 중경삼림에 작별을 고하며 | Farewell to Chungking Express (1994)
 date: 2024-07-11 09:35 +0800
 tags:
-  - review
+  - journal
 ---
 > 2024년 7월 9일, 타이베이에서 싱가포르로 새벽 비행기를 타고 돌아오며
 

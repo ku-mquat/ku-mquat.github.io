@@ -1,5 +1,5 @@
 backend:
-  name: kumquat
+  name: github
   repo: ku-umquat/kumquat  # GitHub 저장소 경로
   branch: main  # 기본 브랜치명
 

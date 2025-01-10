@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🤙
-permalink: /and
+permalink: /clap
 ---
 
 ![](assets/uploads/profile.png)

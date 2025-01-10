@@ -46,7 +46,7 @@ Blog: /blog
 
 links:
   tags: /tags
-  and: /and
+  clap: /clap
 
 utterances:
   repo: "ku-mquat/kumquat"

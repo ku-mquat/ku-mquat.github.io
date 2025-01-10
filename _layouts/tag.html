@@ -12,7 +12,7 @@ layout: compress
 
     {% if site.tags[page.slug] %}
     <h1>tagged as {{ page.slug }}</h1>
-    <a href="{{ site.url }}{{ site.Blog }}">back to the post list</a>
+    <a href="{{ site.url }}tags">back to the tag list</a>
 
     <ul class="blog-posts">
         {% assign post_list = '' | split: ',' %}

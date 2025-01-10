@@ -45,8 +45,8 @@ exclude: [vendor]
 Blog: /blog
 
 links:
-  about: /about
-  contact: /contact
+  tags: /tags
+  and: /and
 
 utterances:
   repo: "ku-mquat/kumquat"

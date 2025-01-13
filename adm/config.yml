@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: ku-umquat/kumquat
-  branch: master
+  branch: yum
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"

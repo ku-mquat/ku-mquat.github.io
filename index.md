@@ -15,6 +15,6 @@ title:
     opacity: 1}"></div>
 
 <p></p>
-<p style="opacity: 0.35;font-size: 0.8em;margin-top:20px">
+<p style="opacity: 0.35;font-size: 0.8em">
 08-01-2025
 </p>

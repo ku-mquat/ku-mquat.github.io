@@ -164,7 +164,8 @@ table {
 }
 
 hr {
-    border-top: 0.8px solid #2c2c2c; 
+    border: 0px;
+    border-top: 1px solid #2c2c2c; 
 }
 
 img {
@@ -379,7 +380,8 @@ small a {
 }
 
 hr {
-    border-top: 0.8px solid #2c2c2c; 
+    border: 0px;
+    border-top: 1px solid #2c2c2c; 
 }
 
 body:hover {

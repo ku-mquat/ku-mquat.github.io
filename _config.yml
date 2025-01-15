@@ -54,13 +54,10 @@ Blog: /blog
 
 links:
   matome: /matome
-  🕳️: /portal
+  portal: /portal
 
 utterances:
   repo: "ku-mquat/kumquat"
   issue-term: "title"
   label: "utteranc.es"
   theme: "preferred-color-scheme"
-  
-feed:
-  path: /rss

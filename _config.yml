@@ -2,11 +2,17 @@ title: ku.mquat
 description: 日常의 片鱗
 url: "https://tauqm.uk"
 
+author:
+  name: 99
+  url: "https://tauqm.uk"
+
 plugins:
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
 whitelist:
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
 markdown: kramdown
 

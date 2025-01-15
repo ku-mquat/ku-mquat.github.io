@@ -9,10 +9,12 @@ author:
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-feed
 
 whitelist:
   - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-feed
 
 markdown: kramdown
 
@@ -59,3 +61,4 @@ utterances:
   issue-term: "title"
   label: "utteranc.es"
   theme: "preferred-color-scheme"
+  

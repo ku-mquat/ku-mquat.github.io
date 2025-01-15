@@ -53,8 +53,8 @@ exclude: [vendor]
 Blog: /blog
 
 links:
-  tags: /tags
-  clap: /clap
+  matome: /matome
+  🕳️: /portal
 
 utterances:
   repo: "ku-mquat/kumquat"
@@ -62,3 +62,5 @@ utterances:
   label: "utteranc.es"
   theme: "preferred-color-scheme"
   
+feed:
+  path: /rss

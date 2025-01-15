@@ -164,7 +164,7 @@ table {
 }
 
 hr {
-    border-top: 1px dashed;
+    border-top: 0.8px solid #2c2c2c; 
 }
 
 img {
@@ -379,7 +379,7 @@ small a {
 }
 
 hr {
-    border: 1.61803px solid;
+    border-top: 0.8px solid #2c2c2c; 
 }
 
 body:hover {

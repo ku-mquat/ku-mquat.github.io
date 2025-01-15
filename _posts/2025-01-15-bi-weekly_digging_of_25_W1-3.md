@@ -11,7 +11,7 @@ including things from December 2024
 
 ---
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/wrap-myself-in-paper/206344230?i=206344321"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:720px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/wrap-myself-in-paper/206344230?i=206344321"></iframe>
 
 Marks and Spenser에서 처음 듣고 너무 구리다고 생각했는데... 그러고 나서 크리스마스 시즌 내내 이 거랑 [NJWMX](https://music.apple.com/us/album/njwmx/1719868691)만 들었다. 
 
@@ -19,7 +19,7 @@ Thought it seems tacky firstly listened in Marks and Spenser, but eventually onl
 
 ---
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/heart-of-glass-russian/1676552740?i=1676553349"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:720px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/heart-of-glass-russian/1676552740?i=1676553349"></iframe>
 
 테런 에저턴은 킹스맨 이후로 별 관심 없었고, 이 영화도 테트리스를 좋아하는 것 치고는 여전히 별 관심 없었는데, 오랜만에 노어를 들어버릇 하니 다시 소비에트와 포스트-소비에트 디깅이 시작됨.
 
@@ -31,17 +31,17 @@ Never interested to Teron Egerton after Kingsman, and also felt this movie is no
 
 Since rock band was not a proper job and it was illegal not to have a job position in Soviet Union, there is definitely a good taste of winter break-up song which is approved by Komsomol. Amazing video from 1975
 
-> От снега город белый, и никому нет дела, Что от меня уходишь ты.
+> От снега город белый
+> и никому нет дела
+> Что от меня уходишь ты
 
 ---
 
 관련해서 마저 찾은 최근의 Russian Indie들 | More recent Russian indies
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/%D1%81%D1%82%D0%B8%D0%B2%D0%B5%D0%BD-%D1%82%D1%8B-%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BD%D0%B5%D1%87%D1%82%D0%BE/1610565342?i=1610565346"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:720px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/%D1%81%D1%82%D0%B8%D0%B2%D0%B5%D0%BD-%D1%82%D1%8B-%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BD%D0%B5%D1%87%D1%82%D0%BE/1610565342?i=1610565346"></iframe>
 
-묘하게 [흐른 - 그렇습니까](https://music.apple.com/us/album/%EA%B7%B8%EB%A0%87%EC%8A%B5%EB%8B%88%EA%B9%8C/1558644287?i=1558644916) 같은 느낌이 있는 보컬
-
-Vocal feels like [this](https://music.apple.com/us/album/%EA%B7%B8%EB%A0%87%EC%8A%B5%EB%8B%88%EA%B9%8C/1558644287?i=1558644916)
+묘하게 [흐른 - 그렇습니까](https://music.apple.com/us/album/%EA%B7%B8%EB%A0%87%EC%8A%B5%EB%8B%88%EA%B9%8C/1558644287?i=1558644916) 같은 느낌이 있는 보컬 | Vocal feels like [this](https://music.apple.com/us/album/%EA%B7%B8%EB%A0%87%EC%8A%B5%EB%8B%88%EA%B9%8C/1558644287?i=1558644916)
 
 <iframe width="100%" height="398" src="https://www.youtube.com/embed/j0bhiaA2M-k?si=d-NT8bZqLmReI6H1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -51,9 +51,9 @@ Vocal feels like [this](https://music.apple.com/us/album/%EA%B7%B8%EB%A0%87%EC%8
 
 My tastes are more towards Uvula. Just watching the video brings back memories of how cold and rainy Soviet cities were even in the middle of summer. 
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/%D0%BD%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B5%D0%BD%D1%8F/1758089654?i=1758090394"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:720px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/%D0%BD%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B5%D0%BD%D1%8F/1758089654?i=1758090394"></iframe>
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/%D1%82%D0%B0%D0%B9%D0%BD%D0%B0/1758087814?i=1758088586"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:720px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/%D1%82%D0%B0%D0%B9%D0%BD%D0%B0/1758087814?i=1758088586"></iframe>
 
 이 두 개도 너무 좋음
 
@@ -76,7 +76,7 @@ But [the group discontinued](https://vk.com/uvulauvula?w=wall-106729635_10912) b
 
 ---
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/sunday-at-the-village-vanguard-keepnews-collection-live/1440926338"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:720px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/sunday-at-the-village-vanguard-keepnews-collection-live/1440926338"></iframe>
 
 책 [<아무튼, 뉴욕>](https://ohye.kr/product/books/%EC%95%84%EB%AC%B4%ED%8A%BC-%EB%89%B4%EC%9A%95/)을 읽다 알게 된 앨범. 원래도 빌 에반스를 좋아하긴 했으나 이름 정도만 아는 수준이었는데, 실제 잔 소리까지 담겨있는 것이 좋다. 헬스장에서 별 생각 없이 듣다가 누가 나 불렀나 했는데, 이 음반 안에 녹음된 실제 말 소리였음
 
@@ -84,7 +84,7 @@ I discovered this album while reading the book [<Anyway, New York>](https://ohye
 
 ---
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/duplo-sentido/1610384474?i=1610384975"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:720px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/duplo-sentido/1610384474?i=1610384975"></iframe>
 
 포어 듀오링고를 열심히 한 보람이 다 있거든요
 

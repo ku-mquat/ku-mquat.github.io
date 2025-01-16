@@ -8,10 +8,6 @@ layout: compress
 
     {% include header.html %}
 
-    {{ content }}
-
-    <h1>posts</h1>
-
     <ul class="blog-posts">
         {% assign post_list = '' | split: ',' %}
         {% for post in site.posts %}

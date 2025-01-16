@@ -1,7 +1,7 @@
 ---
 layout: default
-title: message
-permalink: /message
+title: guestbook
+permalink: /guestbook
 ---
 
 <script async src="https://guestbooks.meadow.cafe/resources/js/embed_script/284/script.js"></script> 

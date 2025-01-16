@@ -100,11 +100,11 @@ Remember Satellite Lovers, the band that was on viral last summer because [this 
 
 <iframe width="100%" height="398" src="https://www.youtube.com/embed/P2_VnAG6oC4?si=KF4Jt4m-6YX1Ir_e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-우타다 히카루? 저리 비켜
+저리 비켜 우타다 히카루
 
 Utada Hikaru? Get out of the way
 
-![](https://i.namu.wiki/i/tmMrsBMwXkBQ4entuRc7uyWDo3bu_Jo8Y53c5h7J8ttXtcmgFx51m6Qkq8UdHZcWPn5l4AWCeklgMBrPgRQexMdH6fFDTwL7kn4T13RO2JlLaffDSARCh3HkZNNoF_gwU1QeG3B85pVfmPcentY7Wg.webp)
+![](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMkN71%2Fbtrv6XfvTHb%2FQQRNC4fKV1gvf3fSKEKbkk%2Fimg.png)
 
 <iframe width="100%" height="398" src="https://www.youtube.com/embed/W4aKob9IQFQ?si=EveAhkQpfA0sCNV9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

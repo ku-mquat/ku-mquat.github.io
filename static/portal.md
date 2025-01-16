@@ -12,7 +12,9 @@ permalink: /portal
 
 ## 🎏
 
-[![우리집](https://zzzzip.mycafe24.com/zip5.gif)](https://zzzzip.mycafe24.com/)
+- [![우리집](https://zzzzip.mycafe24.com/zip5.gif)](https://zzzzip.mycafe24.com/)
+- [![lovexxmore](https://lovexxmore.me/bn.gif)](https://lovexxmore.me/) 
+- [hyeok.net](https://hyeok.net/)
 
 ---
 

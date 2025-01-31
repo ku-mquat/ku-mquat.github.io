@@ -1,8 +1,13 @@
-@import url('https://fastly.jsdelivr.net/npm/galmuri@latest/dist/galmuri.css');
-@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+@font-face {
+    font-family: 'RixXladywatermelonR';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-4@1.0/RixXladywatermelonR.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
 
 body {
-    font-family: 'Pixelify Sans', 'Galmuri9', sans-serif;
+    font-family: 'League Gothic', 'RixXladywatermelonR', sans-serif;
     margin: 0;
     padding: 10px;
     padding-top: 25px;

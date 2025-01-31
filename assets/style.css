@@ -1,8 +1,7 @@
-@import url('https://fastly.jsdelivr.net/gh/sunn-us/SUIT/fonts/static/woff2/SUIT.css');
-@import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:ital,wght@0,400;0,700;1,400;1,700&family=IBM+Plex+Sans+KR:wght@400;700&display=swap');
 
 body {
-    font-family: 'League Gothic', 'SUIT', sans-serif;
+    font-family: 'IBM Plex Sans Condensed', 'IBM Plex Sans KR', sans-serif;
     margin: 0;
     padding: 10px;
     padding-top: 25px;

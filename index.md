@@ -4,7 +4,7 @@ title:
 ---
 
 <div class="player"
-    data-property="{videoURL:'sfjNCZi9wew',
+    data-property="{videoURL:'ZyWJzWttV3Q',
     containment:'body',
     useOnMobile: true,
     showControls: false,

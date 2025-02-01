@@ -4,13 +4,13 @@ title:
 ---
 
 <div class="player"
-    data-property="{videoURL:'ZyWJzWttV3Q',
+    data-property="{videoURL:'5MsxHNLGWGA',
     containment:'body',
     useOnMobile: true,
     showControls: false,
     autoPlay: true,
     mute: false,
-    startAt: 0,
+    startAt: 31,
     showYTLogo: false,
     opacity: 1}"></div>
 

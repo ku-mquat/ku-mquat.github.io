@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:ital,wght@0,400;0,700;1,400;1,700&family=IBM+Plex+Sans+KR:wght@400;700&display=swap');
+@import url("https://fastly.jsdelivr.net/npm/galmuri/dist/galmuri.css");
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-    font-family: 'IBM Plex Sans Condensed', 'IBM Plex Sans KR', sans-serif;
+    font-family: 'Chakra Petch', 'Galmuri11', monospace;
     margin: 0;
     padding: 10px;
     padding-top: 25px;

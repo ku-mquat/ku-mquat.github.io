@@ -1,8 +1,7 @@
 @import url('https://fastly.jsdelivr.net/npm/galmuri/dist/galmuri.css');
-@import url('https://fonts.googleapis.com/css2?family=Jersey+20&display=swap');
 
 body {
-    font-family: 'Jersey 20', 'Galmuri9', monospace;
+    font-family: 'Galmuri9', monospace;
     margin: 0;
     padding: 10px;
     padding-top: 25px;

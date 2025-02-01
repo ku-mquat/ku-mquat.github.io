@@ -15,6 +15,7 @@ body {
     text-align: justify;
     line-height: 1.5;
     color: #2c2c2c;
+    font-size: 16px;
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */
@@ -109,7 +110,6 @@ input:not([type="submit"]) {
     color: inherit;
     border: 1px dashed;
     padding: 5px;
-    font-size: 16px;
 }
 
 .full-width textarea,
